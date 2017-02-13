@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://www.hoborg.com/starters/Manan/index.html</loc>
+    <lastmod>2016-12-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.hoborg.com/starters/Manan/phone/index.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://www.hoborg.com/starters/Manan/tablet/index.html"/>
+  </url>
+  <url>
+    <loc>http://www.hoborg.com/starters/Manan/domain.html</loc>
+    <lastmod>2016-12-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hoborg.com/starters/Manan/portfolio.html</loc>
+    <lastmod>2016-12-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.hoborg.com/starters/Manan/phone/portfolio.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://www.hoborg.com/starters/Manan/tablet/portfolio.html"/>
+  </url>
+  <url>
+    <loc>http://www.hoborg.com/starters/Manan/contact.html</loc>
+    <lastmod>2016-12-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.hoborg.com/starters/Manan/phone/contact.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://www.hoborg.com/starters/Manan/tablet/contact.html"/>
+  </url>
+  <url>
+    <loc>http://www.hoborg.com/starters/Manan/tablet/my-story.html</loc>
+    <lastmod>2016-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.hoborg.com/starters/Manan/phone/my-story.html"/>
+  </url>
+  <url>
+    <loc>http://www.hoborg.com/starters/Manan/images/work_04.jpg</loc>
+    <lastmod>2016-12-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hoborg.com/starters/Manan/images/work_05.jpg</loc>
+    <lastmod>2016-12-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hoborg.com/starters/Manan/images/work_06.jpg</loc>
+    <lastmod>2016-12-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hoborg.com/starters/Manan/images/work_01.jpg</loc>
+    <lastmod>2016-12-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hoborg.com/starters/Manan/images/krishna.jpg</loc>
+    <lastmod>2016-12-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hoborg.com/starters/Manan/images/aloma.jpg</loc>
+    <lastmod>2016-12-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hoborg.com/starters/Manan/images/shalmali.jpg</loc>
+    <lastmod>2016-12-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hoborg.com/starters/Manan/images/work_02.jpg</loc>
+    <lastmod>2016-12-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hoborg.com/starters/Manan/images/work_03.jpg</loc>
+    <lastmod>2016-12-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hoborg.com/starters/Manan/images/work_07.jpg</loc>
+    <lastmod>2016-12-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hoborg.com/starters/Manan/images/work_00702x479.jpg</loc>
+    <lastmod>2016-12-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hoborg.com/starters/Manan/images/manan.jpg</loc>
+    <lastmod>2016-12-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>

@@ -1,0 +1,38 @@
+.link {
+  stroke: #aaa;
+}
+
+
+.bar {
+  fill: steelblue;
+}
+
+.bar:hover {
+  fill: brown;
+}
+.axis {
+	  font: 10px sans-serif;
+	}
+
+	.axis path,
+	.axis line {
+	  fill: none;
+	  stroke: #000;
+	  shape-rendering: crispEdges;
+	}
+arc text {
+ 
+ font: 10px sans-serif;
+  text-anchor: middle;
+}
+
+
+.arc path {
+  stroke: #fff;table{
+  table-layout:fixed;
+}
+}
+
+table{
+  table-layout:fixed;
+}
